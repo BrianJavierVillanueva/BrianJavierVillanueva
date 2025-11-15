@@ -26,3 +26,9 @@ print(me.intro())
 print("🛠️ Stack:", ", ".join(me.stack))
 print("🎯 Objetivo:", me.goal)
 print("🎵 Aficiones:", ", ".join(me.hobbies))
+```
+### 📫 Contacto
+
+- Email: **brianvillanuevagonzalez@gmail.com**
+
+
