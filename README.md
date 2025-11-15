@@ -12,7 +12,7 @@ class Dev:
         self.name = "Brian"
         self.age = 45
         self.location = "Málaga"
-        self.status = "Estudiante en 42 Málaga"
+        self.status = "Estudiante en 42 Málaga y CPIFP Alan Turing"
         self.stack = ["C", "JavaScript", "PHP", "Python", "HTML", "CSS",
         "Angular", "Django", "Docker", "MySQL", "PostgreSQL", "MongoDB",]
         self.goal = "Conseguir mi primer trabajo como desarrollador y crear IA útil para las personas"
