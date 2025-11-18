@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Brian 👋</h1>
 
 <p align="center">
-  Desarrollador en formación · Estudiante en 42 Málaga · 45 años · Málaga
+  Desarrollador en formación · Estudiante en 42 Málaga · Autodidacta por naturaleza
 </p>
 
 ---
